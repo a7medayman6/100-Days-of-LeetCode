@@ -61,14 +61,11 @@ public class Solution
             else
                 n2 = n2.next;
                
-            sum.next = new ListNode();
-            RecursiveAddUtill(n1, n2, sum.next, reminder);
+            sum.next = new ListNode();        // create the next node in the sum list
+            RecursiveAddUtill(n1, n2, sum.next, reminder);    // call the function recursivly with the next nodes.
         }      
         else if(reminder > 0)     // if both lists are empty, then check if there is any reminder, if there is, then assign the sum.next to this reminder to add the last digit
-        {
-            sum.next = new ListNode();
-            sum.next.val = reminder;
-        }
+            sum.next = new ListNode(reminder, null);
         
     }
     
