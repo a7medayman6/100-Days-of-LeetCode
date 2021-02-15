@@ -1,13 +1,13 @@
-/*******************************************************************
-*
-*  Problem URL : https://leetcode.com/problems/palindrome-number/
-*  Description :
-*    Given an integer x, return true if x is palindrome integer.
-*  Difficulty : Easy
-*  Language : C#
-*  Category : Algorithms
-*  
-*********************************************************************/
+/**
+
+  Problem URL : https://leetcode.com/problems/palindrome-number/
+  Description :
+    Given an integer x, return true if x is palindrome integer.
+  Difficulty : Easy
+  Language : C#
+  Category : Algorithms
+ 
+*/
 
 public class Solution 
 {
