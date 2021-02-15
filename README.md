@@ -8,6 +8,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 1. [Palintdrome Number - easy](Algorithms/Palindrome-Number.cs)
 2. [Add Two Numbers - medium](Algorithms/Add-Two-Numbers.cs)
+3. [Maximum Sub-array](Algorithms/Maximum-Sub-array.cs)
 
 ## Database
 
