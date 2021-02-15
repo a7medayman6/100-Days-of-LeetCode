@@ -15,4 +15,4 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 1
 
-1. [Combine Two Numbers - easy](/Database/Combine-Two-Tables.sql)
+1. [Combine Two Tables - easy](/Database/Combine-Two-Tables.sql)
