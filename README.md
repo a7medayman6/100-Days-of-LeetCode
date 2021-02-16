@@ -11,6 +11,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 3. [Maximum Sub-array - easy](Algorithms/Maximum-Sub-array.cs) -> [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 4. [Majority Element - easy](Algorithms/Majority-Element.cs)  -> [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
 
+#### DAY 2
+
+5. [Balanced Binary Tree - easy](Algorithms/Balanced-Binary-Tree.cs) -> [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
+
 ## Database
 
 #### DAY 1
