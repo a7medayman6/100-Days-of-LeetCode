@@ -20,3 +20,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 1
 
 1. [Combine Two Tables - easy](/Database/Combine-Two-Tables.sql)
+
+#### DAY 2
+
+2. [Combine Two Tables](Database/Combine-Two-Tables.sql)
