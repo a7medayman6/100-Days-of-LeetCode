@@ -12,12 +12,11 @@ public class Solution
     public string IntToRoman(int num) 
     {
         string romanNumber = "";
-        
         string[] romanLetters = {"I", "IV", "V", "IX", "X", "XL", "L", "XC", "C", "CD", "D", "CM", "M"};
-        
         int[] integerRomanLetters = {1, 4, 5, 9, 10, 40, 50, 90, 100, 400, 500, 900, 1000};
         
         int j = integerRomanLetters.Length - 1;
+        
         while(j >= 0 && num > 0)
         {
             if(num >= integerRomanLetters[j])
@@ -28,9 +27,8 @@ public class Solution
                 for(int i = 0; i < div; i++)
                     romanNumber += romanLetters[j];
             }
-            
-            Console.WriteLine(num + "\t" + integerRomanLetters[j]);
-            
+           
+            Console.WriteLine(num + "\t" + integerRomanLetters[j]);  
             j--;
         }
         return romanNumber;
