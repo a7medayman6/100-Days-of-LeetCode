@@ -34,4 +34,4 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 3
 
-1. [Word Frequency - medium](Shell/Word Frequency)
+1. [Word Frequency - medium](Shell/Word-Frequency.sh)
