@@ -28,4 +28,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 2
 
-2. [Second Highest Salary](Database/Second-Highest-Salary.sql)
+2. [Second Highest Salary - easy](Database/Second-Highest-Salary.sql)
+
+## Shell
+
+#### DAY 3
+
+1. [Word Frequency - medium](Shell/Word Frequency)
