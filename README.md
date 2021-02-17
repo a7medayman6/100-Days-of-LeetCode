@@ -18,6 +18,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 3 
 
 6. [Sqrt(x) - easy](/Algorithms/Sqrt(x).cs)
+7. [Container With Most Water - medium](Algorithms/container-with-most-water.cs)
 
 ## Database
 
