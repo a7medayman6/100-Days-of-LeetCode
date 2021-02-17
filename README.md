@@ -15,6 +15,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 5. [Balanced Binary Tree - easy](Algorithms/Balanced-Binary-Tree.cs) -> [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
 
+#### DAY 3 
+
+6. [Sqrt(x) - easy](/Algorithms/Sqrt(x).cs)
+
 ## Database
 
 #### DAY 1
