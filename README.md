@@ -23,4 +23,4 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 2
 
-2. [Combine Two Tables](Database/Combine-Two-Tables.sql)
+2. [Second Highest Salary](Database/Second-Highest-Salary.sql)
