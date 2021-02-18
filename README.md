@@ -28,6 +28,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 11. [Same Tree - easy](Algorithms/Same-Tree.cs)
 12. [Symmetric Tree - easy](Algorithms/Symmetric-Tree.cs)
 13. [Maximum Depth of Binary Tree - easy](Algorithms/Maximum-Depth-of-Binary-Tree.cs)
+14. [Minimum Depth of Binary Tree - easy](Algorithms/Minimum-Depth-of-Binary-Tree.cs)
 
 
 ## Database
