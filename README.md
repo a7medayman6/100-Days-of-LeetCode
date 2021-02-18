@@ -26,6 +26,8 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 10. [Pow(x, n) - medium](Algorithms/Pow(x%2C%20n).cs)
 11. [Same Tree - easy](Algorithms/Same-Tree.cs)
+12. [Symmetric Tree - easy](Algorithms/Same-Tree.cs)
+
 
 ## Database
 
