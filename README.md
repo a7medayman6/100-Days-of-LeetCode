@@ -25,12 +25,13 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 4
 
 10. [Pow(x, n) - medium](Algorithms/Pow(x%2C%20n).cs)
+11. [Same Tree - easy](Algorithms/Same-Tree.cs)
 
 ## Database
 
 #### DAY 1
 
-1. [Combine Two Tables - easy](/Database/Combine-Two-Tables.sql)
+1. [Combine Two Tables - easy](Database/Combine-Two-Tables.sql)
 
 #### DAY 2
 
