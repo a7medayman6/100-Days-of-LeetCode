@@ -22,6 +22,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 8. [Integer to Roman - medium](Algorithms/Integer-to-Roman.cs)
 9. [Climbing Stairs - easy](Algorithms/Climbing-Stairs.cs) -> [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
+#### DAY 4
+
+10. [Pow(x, n) - medium](Algorithms/Pow(x%2C%20n).cs)
+
 ## Database
 
 #### DAY 1
