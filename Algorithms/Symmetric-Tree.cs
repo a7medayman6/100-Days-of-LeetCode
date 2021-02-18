@@ -1,4 +1,3 @@
-Symmetric Tree
 /**
   Problem URL : https://leetcode.com/problems/symmetric-tree/
   Description :
