@@ -33,6 +33,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 5
 
 15. [Valid Perfect Square - easy](Algorithms/Valid-Perfect-Square.cs) => [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
+16. [Path Sum - easy](Algotithms/Path-Sum.cs)
 
 ## Database
 
