@@ -8,19 +8,19 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 1. [Palindrome Number - easy](Algorithms/Palindrome-Number.cs)
 2. [Add Two Numbers - medium](Algorithms/Add-Two-Numbers.cs)
-3. [Maximum Sub-array - easy](Algorithms/Maximum-Sub-array.cs) -> [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
-4. [Majority Element - easy](Algorithms/Majority-Element.cs)  -> [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
+3. [Maximum Sub-array - easy](Algorithms/Maximum-Sub-array.cs) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+4. [Majority Element - easy](Algorithms/Majority-Element.cs)  => [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
 
 #### DAY 2
 
-5. [Balanced Binary Tree - easy](Algorithms/Balanced-Binary-Tree.cs) -> [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
+5. [Balanced Binary Tree - easy](Algorithms/Balanced-Binary-Tree.cs) => [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
 
 #### DAY 3 
 
 6. [Sqrt(x) - easy](/Algorithms/Sqrt(x).cs)
 7. [Container With Most Water - medium](Algorithms/container-with-most-water.cs)
 8. [Integer to Roman - medium](Algorithms/Integer-to-Roman.cs)
-9. [Climbing Stairs - easy](Algorithms/Climbing-Stairs.cs) -> [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+9. [Climbing Stairs - easy](Algorithms/Climbing-Stairs.cs) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
 #### DAY 4
 
@@ -30,6 +30,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 13. [Maximum Depth of Binary Tree - easy](Algorithms/Maximum-Depth-of-Binary-Tree.cs)
 14. [Minimum Depth of Binary Tree - easy](Algorithms/Minimum-Depth-of-Binary-Tree.cs)
 
+#### DAY 5
+
+15. [Valid Perfect Square - easy](Algorithms/Valid-Perfect-Square.cs) => [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
 
 ## Database
 
