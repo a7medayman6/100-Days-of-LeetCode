@@ -41,6 +41,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 2. [Second Highest Salary - easy](Database/Second-Highest-Salary.sql)
 
+#### DAY 4
+
+3. [Employees Earning More Than Their Managers - easy](Database/Employees-Earning-More-Than-Their-Managers.sql)
+
 ## Shell
 
 #### DAY 3
