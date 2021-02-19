@@ -13,7 +13,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 2
 
-5. [Balanced Binary Tree - easy](Algorithms/Balanced-Binary-Tree.cs) => [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
+5. [Balanced Binary Tree - easy](Algorithms/Balanced-Binary-Tree.cs) => [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/) 
 
 #### DAY 3 
 
@@ -25,15 +25,16 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 4
 
 10. [Pow(x, n) - medium](Algorithms/Pow(x%2C%20n).cs)
-11. [Same Tree - easy](Algorithms/Same-Tree.cs)
-12. [Symmetric Tree - easy](Algorithms/Symmetric-Tree.cs)
-13. [Maximum Depth of Binary Tree - easy](Algorithms/Maximum-Depth-of-Binary-Tree.cs)
-14. [Minimum Depth of Binary Tree - easy](Algorithms/Minimum-Depth-of-Binary-Tree.cs)
+11. [Same Tree - easy](Algorithms/Same-Tree.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+12. [Symmetric Tree - easy](Algorithms/Symmetric-Tree.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+13. [Maximum Depth of Binary Tree - easy](Algorithms/Maximum-Depth-of-Binary-Tree.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+14. [Minimum Depth of Binary Tree - easy](Algorithms/Minimum-Depth-of-Binary-Tree.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 
 #### DAY 5
 
 15. [Valid Perfect Square - easy](Algorithms/Valid-Perfect-Square.cs) => [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
-16. [Path Sum - easy](Algotithms/Path-Sum.cs)
+16. [Path Sum - easy](Algotithms/Path-Sum.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+17. [Maximum Depth of N-ary Tree - easy](Algorithms/Maximum-Depth-of-N-ary-Tree.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 
 ## Database
 
