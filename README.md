@@ -50,7 +50,8 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 5
 
-7. [Rising Temperature](Database/Rising-Temperature.sql)
+7. [Rising Temperature - easy](Database/Rising-Temperature.sql)
+8. [Big Countries - easy](Database/Big-Countries.sql)
 
 ## Shell
 
