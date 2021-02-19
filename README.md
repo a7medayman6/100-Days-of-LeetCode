@@ -53,6 +53,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 7. [Rising Temperature - easy](Database/Rising-Temperature.sql)
 8. [Big Countries - easy](Database/Big-Countries.sql)
 9. [Classes More Than 5 Students - easy](Database/Classes-More-Than-5-Students.sql)
+10. [Not Boring Movies - easy](Database/Not-Boring-Movies.sql)
 
 ## Shell
 
