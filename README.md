@@ -35,6 +35,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 15. [Valid Perfect Square - easy](Algorithms/Valid-Perfect-Square.cs) => [Divide and Qonquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
 16. [Path Sum - easy](Algotithms/Path-Sum.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 17. [Maximum Depth of N-ary Tree - easy](Algorithms/Maximum-Depth-of-N-ary-Tree.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+18. [Leaf-Similar Trees - easy](Algorithms/Leaf-Similar-Trees.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 
 ## Database
 
