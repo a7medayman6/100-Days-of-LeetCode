@@ -44,6 +44,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 4
 
 3. [Employees Earning More Than Their Managers - easy](Database/Employees-Earning-More-Than-Their-Managers.sql)
+4. [Duplicate Emails](Database/Duplicate-Emails.sql)
 
 ## Shell
 
