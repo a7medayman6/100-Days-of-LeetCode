@@ -46,7 +46,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 3. [Employees Earning More Than Their Managers - easy](Database/Employees-Earning-More-Than-Their-Managers.sql)
 4. [Duplicate Emails - easy](Database/Duplicate-Emails.sql)
 5. [Customers Who Never Order - easy](Database/Combine-Two-Tables.sql)
-6. [Delete Duplicate Emails - easy](Database/Delete-Duplicate-Emails.sql) 
+6. [Delete Duplicate Emails - easy](Database/Delete-Duplicate-Emails.sql)
+
+#### DAY 5
+
+7. [Rising Temperature](Database/Rising-Temperature.sql)
 
 ## Shell
 
