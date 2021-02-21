@@ -37,6 +37,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 17. [Maximum Depth of N-ary Tree - easy](Algorithms/Maximum-Depth-of-N-ary-Tree.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 18. [Leaf-Similar Trees - easy](Algorithms/Leaf-Similar-Trees.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 
+#### DAY 6
+
+19. [Two Sum - easy](Algorithms/Two-Sum.cs)
+
+
 ## Database
 
 #### DAY 1
