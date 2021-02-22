@@ -44,8 +44,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 7 
 
-21. [Walking Robot Simulation - easy](Algorithms/Walking-Robot-Simulation.cs)
+21. [Walking Robot Simulation - easy](Algorithms/Walking-Robot-Simulation.cs) => [Greedy](https://www.geeksforgeeks.org/greedy-algorithms/)
 
+#### DAY 8
+
+22. [Split a String in Balanced Strings - easy](Algorithms/Split-a-String-in-Balanced-Strings.cs) => [Greedy](https://www.geeksforgeeks.org/greedy-algorithms/)
 
 ## Database
 
