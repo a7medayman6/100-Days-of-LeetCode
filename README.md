@@ -51,6 +51,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 22. [Split a String in Balanced Strings - easy](Algorithms/Split-a-String-in-Balanced-Strings.cs) => [Greedy](https://www.geeksforgeeks.org/greedy-algorithms/)
 23. [Number Of Rectangles That Can Form The Largest Square - easy](Algorithms/Number-of-Rectangles-That-Can-Form-The-Largest-Square.cs) => [Greedy](https://www.geeksforgeeks.org/greedy-algorithms/)
 24. [Minimum Cost to Move Chips to The Same Position - easy](Algorithms/Minimum-Cost-to-Move-Chips-to-The-Same-Position.cs) => [Greedy](https://www.geeksforgeeks.org/greedy-algorithms/)
+25. [Word Pattern - easy](Algorithms/Word-Pattern.cs) => [Greedy](https://www.geeksforgeeks.org/greedy-algorithms/)
 
 
 ## Database
