@@ -49,6 +49,8 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 8
 
 22. [Split a String in Balanced Strings - easy](Algorithms/Split-a-String-in-Balanced-Strings.cs) => [Greedy](https://www.geeksforgeeks.org/greedy-algorithms/)
+23. [Number Of Rectangles That Can Form The Largest Square - easy](Algorithms/Number-of-Rectangles-That-Can-Form-The-Largest-Square.cs) => [Greedy](https://www.geeksforgeeks.org/greedy-algorithms/)
+
 
 ## Database
 
