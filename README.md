@@ -44,7 +44,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 7 
 
-21. [Walking Robot Simulation](Algorithms/Walking-Robot-Simulation.cs)
+21. [Walking Robot Simulation - easy](Algorithms/Walking-Robot-Simulation.cs)
 
 
 ## Database
