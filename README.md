@@ -42,6 +42,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 19. [Two Sum - easy](Algorithms/Two-Sum.cs)
 20. [Reverse Integer - easy](Algorithms/Reverse-Integer.cs)
 
+#### DAY 7 
+
+21. [Walking Robot Simulation](Algorithms/Walking-Robot-Simulation.cs)
+
 
 ## Database
 
