@@ -60,6 +60,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 10
 
 27. [Defanging an IP Address - easy](Algorithms/Defanging-an-IP-Address.cs)
+28. [Kids With the Greatest Number of Candies - easy](Algorithms/Kids-With-the-Greatest-Number-of-Candies.cs)
 
 
 ## Database
