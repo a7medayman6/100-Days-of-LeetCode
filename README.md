@@ -57,6 +57,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 26. [Running Sum of 1d Array - easy](Algorithms/Running-Sum-of-1d-Array.cs)
 
+#### DAY 10
+
+27. [Defanging an IP Address - easy](Algorithms/Defanging-an-IP-Address.cs)
+
 
 ## Database
 
