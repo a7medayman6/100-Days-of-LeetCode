@@ -82,6 +82,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 9. [Classes More Than 5 Students - easy](Database/Classes-More-Than-5-Students.sql)
 10. [Not Boring Movies - easy](Database/Not-Boring-Movies.sql)
 
+#### DAY 9 
+
+11. [Swap Salary - easy](Database/Swap-Salary.sql)
+
 ## Shell
 
 #### DAY 3
