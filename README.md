@@ -61,6 +61,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 27. [Defanging an IP Address - easy](Algorithms/Defanging-an-IP-Address.cs)
 28. [Kids With the Greatest Number of Candies - easy](Algorithms/Kids-With-the-Greatest-Number-of-Candies.cs)
+29. [Shuffle the Array - easy](Algorithms/Shuffle-the-Array.cs)
 
 
 ## Database
