@@ -53,6 +53,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 24. [Minimum Cost to Move Chips to The Same Position - easy](Algorithms/Minimum-Cost-to-Move-Chips-to-The-Same-Position.cs) => [Greedy](https://www.geeksforgeeks.org/greedy-algorithms/)
 25. [Word Pattern - easy](Algorithms/Word-Pattern.cs) => [Greedy](https://www.geeksforgeeks.org/greedy-algorithms/)
 
+#### DAY 9
+
+26. [Running Sum of 1d Array - easy](Algorithms/Running-Sum-of-1d-Array.cs)
+
 
 ## Database
 
