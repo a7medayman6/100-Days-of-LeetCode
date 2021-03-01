@@ -66,6 +66,8 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 11
 
 30. [Min Cost Climbing Stairs - easy](Algorithms/Min-Cost-Climbing-Stairs.cs) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+31. [Count Negative Numbers in a Sorted Matrix - easy](Algorithms/Count-Negative-Numbers-in-a-Sorted-Matrix.cs)
+
 ## Database
 
 #### DAY 1
