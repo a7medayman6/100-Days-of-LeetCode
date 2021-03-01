@@ -63,7 +63,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 28. [Kids With the Greatest Number of Candies - easy](Algorithms/Kids-With-the-Greatest-Number-of-Candies.cs)
 29. [Shuffle the Array - easy](Algorithms/Shuffle-the-Array.cs)
 
+#### DAY 11
 
+28. [Min Cost Climbing Stairs - easy](Algorithms/Min-Cost-Climbing-Stairs.cs) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 ## Database
 
 #### DAY 1
