@@ -100,6 +100,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 11. [Swap Salary - easy](Database/Swap-Salary.sql)
 
+#### DAY 12
+
+12. [Rank Scores - medium](Database/Rank-Scores.sql)
+
 ## Shell
 
 #### DAY 3
