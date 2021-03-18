@@ -109,6 +109,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 12. [Rank Scores - medium](Database/Rank-Scores.sql)
 
+#### DAY 13
+
+13. [Consecutive Numbers - medium](Database/Consecutive-Numbers.sql)
 ## Shell
 
 #### DAY 3
