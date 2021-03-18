@@ -72,6 +72,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 32. [Richest Customer Wealth - easy](Algorithms/Richest-Customer-Wealth.cs)
 
+#### DAY 13 
+
+33. [How Many Numbers Are Smaller Than the Current Number - easy](Algorithms/How-Many-Numbers-Are-Smaller-Than-the-Current-Number.cs)
+
+
 ## Database
 
 #### DAY 1
