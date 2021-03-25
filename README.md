@@ -76,6 +76,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 33. [How Many Numbers Are Smaller Than the Current Number - easy](Algorithms/How-Many-Numbers-Are-Smaller-Than-the-Current-Number.cs)
 
+#### DAY 14
+
+34. [Number of Good Pairs - easy](Algorithms/Number-of-Good-Pairs.cs)
 
 ## Database
 
@@ -112,6 +115,8 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 13
 
 13. [Consecutive Numbers - medium](Database/Consecutive-Numbers.sql)
+
+
 ## Shell
 
 #### DAY 3
