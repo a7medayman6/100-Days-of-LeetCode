@@ -80,6 +80,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 34. [Number of Good Pairs - easy](Algorithms/Number-of-Good-Pairs.cs)
 
+#### DAY 15
+
+35. [Convert Binary Number in a Linked List to Integer - easy](Algorithms/Convert-Binary-Number-in-a-Linked-List-to-Integer.cs) => [Data Structures - Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
+
 ## Database
 
 #### DAY 1
