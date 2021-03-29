@@ -88,6 +88,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 36. [Subrectangle Queries - medium](Algorithms/Subrectangle-Queries.cs)
 
+#### DAY 17 
+
+37. [Minimum Number of Operations to Move All Balls to Each Box - medium](Algorithms/minimum-number-of-operations-to-move-all-balls-to-each-box.cs)
+
 ## Database
 
 #### DAY 1
