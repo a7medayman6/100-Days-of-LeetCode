@@ -103,6 +103,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 20
 
 40. [Design Parking System - easy](Algorithms/design-parking-system.cs)
+
+#### DAY 21
+
+41. [Number of Steps to Reduce a Number to Zero - easy](Algorithms/number-of-steps-to-reduce-a-number-to-zero.cs)
+
 ## Database
 
 #### DAY 1
