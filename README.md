@@ -92,6 +92,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 37. [Minimum Number of Operations to Move All Balls to Each Box - medium](Algorithms/minimum-number-of-operations-to-move-all-balls-to-each-box.cs)
 
+#### DAY 18 
+
+38. [Partitioning Into Minimum Number Of Deci-Binary Numbers - medium](Algorithms/partitioning-into-minimum-number-of-deci-binary-numbers.cs)
+
+
 ## Database
 
 #### DAY 1
