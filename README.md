@@ -96,6 +96,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 38. [Partitioning Into Minimum Number Of Deci-Binary Numbers - medium](Algorithms/partitioning-into-minimum-number-of-deci-binary-numbers.cs)
 
+#### DAT 19 
+
+39. [Jewels and Stones - easy](Algorithms/jewels-and-stone.cs)
 
 ## Database
 
