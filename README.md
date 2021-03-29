@@ -84,6 +84,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 35. [Convert Binary Number in a Linked List to Integer - easy](Algorithms/Convert-Binary-Number-in-a-Linked-List-to-Integer.cs) => [Data Structures - Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
+#### DAY 16
+
+36. [Subrectangle Queries - medium](Algorithms/Subrectangle-Queries.cs)
+
 ## Database
 
 #### DAY 1
