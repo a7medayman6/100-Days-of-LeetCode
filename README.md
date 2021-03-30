@@ -108,6 +108,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 41. [Number of Steps to Reduce a Number to Zero - easy](Algorithms/number-of-steps-to-reduce-a-number-to-zero.cs)
 
+#### DAY 22 
+
+42. [Merge Two Binary Trees - easy](Algorithms/merge-two-binary-trees.cs) => [Data Structures - Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+
+
 ## Database
 
 #### DAY 1
