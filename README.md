@@ -113,6 +113,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 42. [Merge Two Binary Trees - easy](Algorithms/merge-two-binary-trees.cs) => [Data Structures - Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
 43. [Counting Bits - medium](Algorithms/counting-bits.cs)
 
+#### DAY 23
+
+44. [Partition Labels - medium](Algorithms/partition-labels.cs) => [Greedy](https://www.geeksforgeeks.org/greedy-algorithms/)
 
 ## Database
 
