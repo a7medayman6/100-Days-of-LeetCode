@@ -125,6 +125,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 46. [Permutations - medium](Algorithms/Permutations.cs)
 
+#### DAY 26
+
+47. [Binary Tree Inorder Traversal - medium](Algorithms/binary-tree-inorder-traversal.cs) => [Data Structures - Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+
+
 ## Database
 
 #### DAY 1
