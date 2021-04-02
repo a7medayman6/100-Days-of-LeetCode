@@ -117,6 +117,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 44. [Partition Labels - medium](Algorithms/partition-labels.cs) => [Greedy](https://www.geeksforgeeks.org/greedy-algorithms/)
 
+#### DAY 24
+
+45. [Invert Binary Tree - easy](Algorithms/invert-binary-tree.cs)
+
+
 ## Database
 
 #### DAY 1
