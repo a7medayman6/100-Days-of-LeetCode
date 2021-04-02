@@ -129,6 +129,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 47. [Binary Tree Inorder Traversal - medium](Algorithms/binary-tree-inorder-traversal.cs) => [Data Structures - Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
 
+#### DAY 27
+
+48. [Reverse Linked List - easy](Algorithms/reverse-linked-list.cs) => [Data Structures - Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
 ## Database
 
