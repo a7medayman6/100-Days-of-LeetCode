@@ -121,6 +121,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 45. [Invert Binary Tree - easy](Algorithms/invert-binary-tree.cs)
 
+#### DAY 25
+
+46. [Permutations - medium](Algorithms/Permutations.cs)
 
 ## Database
 
