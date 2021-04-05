@@ -98,7 +98,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 19 
 
-39. [Jewels and Stones - easy](Algorithms/jewels-and-stone.cs)
+39. [Jewels and Stones - easy](Algorithms/jewels-and-stones.cs)
 
 #### DAY 20
 
@@ -132,6 +132,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 27
 
 48. [Reverse Linked List - easy](Algorithms/reverse-linked-list.cs) => [Data Structures - Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
+
+#### DAY 28
+
+49. [Single Number - easy](Algorithms/single-number.cs)
+
 
 ## Database
 
