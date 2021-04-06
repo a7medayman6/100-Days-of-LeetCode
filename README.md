@@ -141,6 +141,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 50. [Rotate Image - medium](Algorithms/rotate-image.cs)
 
+#### DAY 30 
+
+51. [Kth Largest Element in an Array - medium](Algorithms/kth-largest-element-in-an-array.cs)
+
+
 ## Database
 
 #### DAY 1
