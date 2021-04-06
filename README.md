@@ -137,6 +137,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 49. [Single Number - easy](Algorithms/single-number.cs)
 
+#### DAY 29
+
+50. [Rotate Image - medium](Algorithms/rotate-image.cs)
 
 ## Database
 
