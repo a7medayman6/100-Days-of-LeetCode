@@ -145,6 +145,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 51. [Kth Largest Element in an Array - medium](Algorithms/kth-largest-element-in-an-array.cs)
 
+#### DAY 31
+
+52. [Palindromic Substrings - medium](Algorithms/palindromic-substrings.cs)
 
 ## Database
 
