@@ -1,0 +1,22 @@
+/**
+   Problem Name : XOR Operation in an Array
+   Problem URL : https://leetcode.com/problems/xor-operation-in-an-array/
+   Description :
+    Given an integer n and an integer start.
+    Define an array nums where nums[i] = start + 2*i (0-indexed) and n == nums.length.
+    Return the bitwise XOR of all elements of nums.
+   Difficulty : Easy
+   Language : C#
+   Category : Algorithms
+*/
+public class Solution 
+{
+    public int XorOperation(int n, int start) 
+    {
+        int xor = start;
+        for(int i = 1; i < n; i++)
+            xor ^= (start + (i << 1));
+            
+        return xor;
+    }
+}
