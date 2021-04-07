@@ -149,6 +149,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 52. [Palindromic Substrings - medium](Algorithms/palindromic-substrings.cs)
 
+#### DAY 32
+
+53. [XOR Operation in an Array - easy](Algorithms/xor-operation-in-an-array.cs)
+
+
 ## Database
 
 #### DAY 1
