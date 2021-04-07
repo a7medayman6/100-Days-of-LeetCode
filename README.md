@@ -190,6 +190,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 13. [Consecutive Numbers - medium](Database/Consecutive-Numbers.sql)
 
+#### DAY 32 
+
+14. [Nth Highest Salary - medium](Database/nth-highest-salary.sql)
+
 
 ## Shell
 
