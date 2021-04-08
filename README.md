@@ -153,6 +153,13 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 53. [XOR Operation in an Array - easy](Algorithms/xor-operation-in-an-array.cs)
 
+#### DAY 33 
+
+54. [Divisor Game - easy](Algorithms/Divisor-Game.cs)
+
+#### DAY 34
+
+55. [Best Time to Buy and Sell Stock - easy](Algorithms/best-time-to-buy-and-sell-stock.cs)
 
 ## Database
 
