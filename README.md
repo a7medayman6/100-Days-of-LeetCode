@@ -161,6 +161,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 55. [Best Time to Buy and Sell Stock - easy](Algorithms/best-time-to-buy-and-sell-stock.cs)
 
+#### DAY 35
+
+56. [Is Subsequence - easy](Algorithms/is-subsequence.cs)
+
+
 ## Database
 
 #### DAY 1
