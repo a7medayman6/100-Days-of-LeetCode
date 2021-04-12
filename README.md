@@ -165,6 +165,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 56. [Is Subsequence - easy](Algorithms/is-subsequence.cs)
 
+#### DAY 36
+
+57. [Reverse String - easy](Algorithms/reverse-string.cs)
+58. [Delete Node in a Linked List - easy](Algorithms/delete-node-in-a-linked-list.cs)
 
 ## Database
 
