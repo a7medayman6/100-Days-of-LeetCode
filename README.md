@@ -218,6 +218,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 14. [Nth Highest Salary - medium](Database/nth-highest-salary.sql)
 
+#### DAY 38
+
+15. [Trips and Users - hard](Database/trips-and-users.sql)
 
 ## Shell
 
