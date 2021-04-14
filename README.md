@@ -174,6 +174,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 59. [Fizz Buzz - easy](Algorithms/fizz-buzz.cs)
 
+#### DAY 38
+
+60. [Convert Sorted Array to Binary Search Tree - easy](Algorithms/convert-sorted-array-to-binary-search-tree.cs)
 
 ## Database
 
