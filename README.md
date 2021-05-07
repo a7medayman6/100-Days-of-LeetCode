@@ -178,6 +178,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 60. [Convert Sorted Array to Binary Search Tree - easy](Algorithms/convert-sorted-array-to-binary-search-tree.cs)
 
+#### DAY 39
+
+61. [Goal Parser Interpretation - easy](Algorithms/goal-parser-interpretation.cs)
+
+
 ## Database
 
 #### DAY 1
