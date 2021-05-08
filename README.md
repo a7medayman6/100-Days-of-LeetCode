@@ -182,6 +182,29 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 61. [Goal Parser Interpretation - easy](Algorithms/goal-parser-interpretation.cs)
 
+#### DAY 40
+
+62. [Decode XORed Array - easy](Algorithms/decode-xored-array.cs)
+
+#### DAY 41 
+
+63. [Count Items Matching a Rule - easy](Algorithms/count-items-matching-a-rule.cs)
+
+#### DAY 42
+
+64. [Create Target Array in the Given Order - easy](Algorithms/create-target-array-in-the-given-order.cs)
+
+#### DAY 43
+
+65. [Replace All Digits with Characters - easy](Algorithms/replace-all-digits-with-characters.cs)
+
+#### DAY 44
+
+66. [Check If Two String Arrays are Equivalent - easy](Algorithms/check-if-two-string-arrays-are-equivalent.cs)
+
+#### DAY 45
+
+67. [Count the Number of Consistent Strings - easy](Algorithms/count-the-number-of-consistent-strings.cs)
 
 ## Database
 
