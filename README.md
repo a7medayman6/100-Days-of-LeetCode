@@ -210,6 +210,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 68. [Decompress Run-Length Encoded List - easy](Algorithms/decompress-run-length-encoded-list.cs)
 
+#### DAY 47
+
+69. [Remove Outermost Parentheses - easy](Algorithms/remove-outermost-parentheses.cs) => [Data Structures - Stack](https://www.geeksforgeeks.org/stack-data-structure/)
+
 
 ## Database
 
