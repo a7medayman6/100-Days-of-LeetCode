@@ -222,6 +222,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 71. [Squares of a Sorted Array - easy](Algorithms/squares-of-a-sorted-array.cs) => [Two Pointers](https://www.geeksforgeeks.org/two-pointers-technique/)
 
+#### DAY 50 
+
+72. [Replace Elements with Greatest Element on Right Side - easy](Algorithms/Replace-Elements-with-Greatest-Element-on-Right-Side.cs)
+
+
 ## Database
 
 #### DAY 1
