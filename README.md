@@ -218,6 +218,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 70. [Valid Parentheses - easy](Algorithms/valid-parentheses.cs) => [Data Structures - Stack](https://www.geeksforgeeks.org/stack-data-structure/)
 
+#### DAY 49
+
+71. [Squares of a Sorted Array - easy](Algorithms/squares-of-a-sorted-array.cs) => [Two Pointers](https://www.geeksforgeeks.org/two-pointers-technique/)
 
 ## Database
 
