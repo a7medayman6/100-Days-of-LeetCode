@@ -275,6 +275,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 16. [Department Highest Salary - medium](Database/department-highest-salary.sql)
 
+#### DAY 50
+
+17. [Department Top Three Salaries - hard](Database/department-top-three-salaries.sql)
+
 
 ## Shell
 
