@@ -273,7 +273,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 49
 
-16. [Department Highest Salary - medium](Database/department-highest-salary.cs)
+16. [Department Highest Salary - medium](Database/department-highest-salary.sql)
 
 
 ## Shell
