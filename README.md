@@ -266,8 +266,17 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 15. [Trips and Users - hard](Database/trips-and-users.sql)
 
+#### DAY 49
+
+16. [Department Highest Salary - medium](Database/department-highest-salary.cs)
+
+
 ## Shell
 
 #### DAY 3
 
 1. [Word Frequency - medium](Shell/Word-Frequency.sh)
+
+#### DAY 50
+
+2. [Tenth Line - easy](Shell/tenth-line.sh)
