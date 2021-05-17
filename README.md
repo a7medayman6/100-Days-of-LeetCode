@@ -206,6 +206,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 67. [Count the Number of Consistent Strings - easy](Algorithms/count-the-number-of-consistent-strings.cs)
 
+#### DAY 46
+
+68. [Decompress Run-Length Encoded List - easy](Algorithms/decompress-run-length-encoded-list.cs)
+
+
 ## Database
 
 #### DAY 1
