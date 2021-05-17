@@ -214,6 +214,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 69. [Remove Outermost Parentheses - easy](Algorithms/remove-outermost-parentheses.cs) => [Data Structures - Stack](https://www.geeksforgeeks.org/stack-data-structure/)
 
+#### DAY 48
+
+70. [Valid Parentheses - easy](Algorithms/valid-parentheses.cs) => [Data Structures - Stack](https://www.geeksforgeeks.org/stack-data-structure/)
+
 
 ## Database
 
