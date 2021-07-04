@@ -229,6 +229,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 74. [Find a Corresponding Node of a Binary Tree in a Clone of That Tree - medium](Algorithms/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 75. [Maximum Binary Tree - medium](Algorithms/maximum-binary-tree.cs) => [Graph](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
 
+#### DAY 51
+
+76. [Search Insert Position - easy](Algorithms/Search-Insert-Position.cs)
 ## Database
 
 #### DAY 1
