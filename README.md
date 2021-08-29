@@ -232,6 +232,15 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 51
 
 76. [Search Insert Position - easy](Algorithms/Search-Insert-Position.cs)
+
+#### DAY 52
+
+77. [Unique Morse Code Words - easy](Algorithms/unique-morse-code-words.cs) => [Data Structures - HashMap](https://www.geeksforgeeks.org/hashing-data-structure/)
+
+#### DAY 53
+
+78. [Encode and Decode TinyURL - medium](Algorithms/encode-and-decode-tinyurl.cs) => [Data Structures - HashMap](https://www.geeksforgeeks.org/hashing-data-structure/)
+
 ## Database
 
 #### DAY 1
