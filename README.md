@@ -241,6 +241,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 78. [Encode and Decode TinyURL - medium](Algorithms/encode-and-decode-tinyurl.cs) => [Data Structures - HashMap](https://www.geeksforgeeks.org/hashing-data-structure/)
 
+#### DAY 54
+
+79. [Fibonacci Number - easy](Algorithms/fibonacci-number.cs) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+
 ## Database
 
 #### DAY 1
