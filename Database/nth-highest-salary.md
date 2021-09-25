@@ -1,4 +1,6 @@
-```sql
+
+```sql 
+
 /**
   Problem Name : Nth Highest Salary
   Problem URL : https://leetcode.com/problems/nth-highest-salary/
@@ -20,4 +22,6 @@ BEGIN
 
     RETURN result;
 END;
-```sql
+
+```sql 
+

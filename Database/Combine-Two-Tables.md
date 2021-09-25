@@ -1,4 +1,6 @@
-```sql
+
+```sql 
+
 /**
   Problem URL : https://leetcode.com/problems/combine-two-tables/
   Description :
@@ -21,4 +23,6 @@ ON P.PersonId = A.PersonId;
 -- from the persons table
 -- with left join on the address table
 -- where the primary key of person table is personid in the person table, and the foreign key is personid in the address table
-```sql
+
+```sql 
+

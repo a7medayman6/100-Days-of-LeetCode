@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
   Problem Name : Minimum Number of Operations to Move All Balls to Each Box
   Problem URL : https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
@@ -28,4 +30,6 @@ public class Solution
         return ans;
     }
 }
-```cs
+
+```cs 
+

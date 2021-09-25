@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
   Problem URL : https://leetcode.com/problems/powx-n/
   Description :
@@ -35,4 +37,6 @@ public class Solution
         return half * half * x;
     }
 }
-```cs
+
+```cs 
+

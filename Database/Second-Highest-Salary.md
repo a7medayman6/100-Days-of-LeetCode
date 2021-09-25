@@ -1,4 +1,6 @@
-```sql
+
+```sql 
+
 /**
   Problem Name : Second Highest Salary
   Problem URL : https://leetcode.com/problems/second-highest-salary/
@@ -15,4 +17,6 @@ FROM Employee
 WHERE Salary < 
                 ( SELECT MAX(Salary)
                   FROM Employee );
-```sql
+
+```sql 
+

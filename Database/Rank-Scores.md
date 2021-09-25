@@ -1,4 +1,6 @@
-```sql
+
+```sql 
+
 /**
   Problem Name : Rank Scores
   Problem URL : https://leetcode.com/problems/rank-scores/
@@ -14,4 +16,6 @@
 
 SELECT score, Dense_Rank() over(ORDER BY score DESC) AS Rank 
 From scores ORDER BY Rank;
-```sql
+
+```sql 
+

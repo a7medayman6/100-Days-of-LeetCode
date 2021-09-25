@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
   Problem Name : Subrectangle Queries
   Problem URL : https://leetcode.com/problems/subrectangle-queries/
@@ -40,4 +42,6 @@ public class SubrectangleQueries
  * obj.UpdateSubrectangle(row1,col1,row2,col2,newValue);
  * int param_2 = obj.GetValue(row,col);
  */
-```cs
+
+```cs 
+

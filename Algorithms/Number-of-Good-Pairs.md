@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
   Problem Name : Number of Good Pairs
   Problem URL : https://leetcode.com/problems/number-of-good-pairs/
@@ -23,4 +25,6 @@ public class Solution
         return goodPairs;
     }
 }
-```cs
+
+```cs 
+

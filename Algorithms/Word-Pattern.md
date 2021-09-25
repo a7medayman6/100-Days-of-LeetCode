@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
   Problem Name : Word Pattern
   Problem URL : https://leetcode.com/problems/word-pattern/
@@ -36,4 +38,6 @@ public class Solution
         return true;
     }
 }
-```cs
+
+```cs 
+

@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
   Problem Name : Convert Binary Number in a Linked List to Integer
   Problem URL : https://leetcode.com/problems/remove-outermost-parentheses/
@@ -35,4 +37,6 @@ public class Solution
         return prim;
     }
 }
-```cs
+
+```cs 
+

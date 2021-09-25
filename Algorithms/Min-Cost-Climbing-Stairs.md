@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
  /**
   Problem Name : Min Cost Climbing Stairs
   Problem URL : https://leetcode.com/problems/word-pattern/
@@ -27,4 +29,6 @@ public class Solution
         return Math.Min(min1, min2);
     }
 }
-```cs
+
+```cs 
+

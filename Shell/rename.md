@@ -1,4 +1,6 @@
-```bash
+
+```bash 
+
 #!/bin/bash
 
 for file in *.sh
@@ -12,4 +14,6 @@ do
   echo "\`\`\`bash" > "$file"
   cat tmp >> "$file"
   echo "\`\`\`bash" >> "$file"
-done```bash
+done
+```bash 
+

@@ -1,4 +1,6 @@
-```sql
+
+```sql 
+
  /**
   Problem Name : Not Boring Movies
   Problem URL : https://leetcode.com/problems/not-boring-movies/
@@ -15,4 +17,6 @@ FROM Cinema
 WHERE mod(id, 2) <> 0 
 AND description NOT LIKE 'boring'
 ORDER BY Rating DESC;
-```sql
+
+```sql 
+

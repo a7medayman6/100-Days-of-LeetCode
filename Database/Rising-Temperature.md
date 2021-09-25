@@ -1,4 +1,6 @@
-```sql
+
+```sql 
+
  /**
   Problem Name : Rising Temperature
   Problem URL : https://leetcode.com/problems/rising-temperature/
@@ -14,4 +16,6 @@ SELECT a.id
 FROM Weather a, Weather b
 WHERE b.RecordDate = a.RecordDate - 1
 AND a.Temperature > b.Temperature;
-```sql
+
+```sql 
+

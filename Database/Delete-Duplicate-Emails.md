@@ -1,4 +1,6 @@
-```sql
+
+```sql 
+
 /**
   Problem Name : Delete Duplicate Emails
   Problem URL : https://leetcode.com/problems/delete-duplicate-emails/
@@ -12,4 +14,6 @@
 DELETE p2 FROM Person p, Person p2
 WHERE p.id < p2.id 
 AND p.email = p2.email;
-```sql
+
+```sql 
+

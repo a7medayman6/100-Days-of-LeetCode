@@ -1,4 +1,6 @@
-```sql
+
+```sql 
+
 /**
   Problem Name : Department Highest Salary
   Problem URL : https://leetcode.com/problems/department-highest-salary/
@@ -16,4 +18,6 @@ Where (Emp.DepartmentId, Salary)
 IN (SELECT DepartmentId, MAX(Salary)
     FROM Employee
     GROUP BY DepartmentId);
-```sql
+
+```sql 
+

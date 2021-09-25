@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
   Problem Name : Delete Node in a Linked List
   Problem URL : https://leetcode.com/problems/delete-node-in-a-linked-list/
@@ -28,4 +30,6 @@ public class Solution
  *     public ListNode(int x) { val = x; }
  * }
  */
-```cs
+
+```cs 
+

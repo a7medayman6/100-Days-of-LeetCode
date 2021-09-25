@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
   Problem Name : Number Of Rectangles That Can Form The Largest Square
   Problem URL : https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
@@ -36,4 +38,6 @@ public class Solution
         return n;
     }
 }
-```cs
+
+```cs 
+

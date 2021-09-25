@@ -1,4 +1,6 @@
-```sql
+
+```sql 
+
 /**
   Problem Name : Employees Earning More Than Their Managers
   Problem URL : https://leetcode.com/problems/employees-earning-more-than-their-managers/
@@ -16,4 +18,6 @@ FROM Employee emp,
      Employee manager 
 WHERE emp.ManagerId = manager.Id 
 AND emp.Salary > manager.Salary;
-```sql
+
+```sql 
+

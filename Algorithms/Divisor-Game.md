@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
    Problem Name : Divisor Game
    Problem URL : https://leetcode.com/problems/divisor-game/
@@ -24,4 +26,6 @@ public class Solution
         return false;
     }
 }
-```cs
+
+```cs 
+

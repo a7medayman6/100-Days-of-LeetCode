@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
   Problem URL : https://leetcode.com/problems/sqrtx/submissions/
   Description :
@@ -15,4 +17,6 @@ public class Solution
         return (int)Math.Sqrt(x);
     }
 }
-```cs
+
+```cs 
+

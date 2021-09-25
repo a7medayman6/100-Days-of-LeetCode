@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
 
   Problem URL : https://leetcode.com/problems/majority-element/
@@ -64,4 +66,6 @@ public class Solution
         return counter;
     }
 }
-```cs
+
+```cs 
+

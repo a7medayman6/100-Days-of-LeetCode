@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
   Problem Name : Count Items Matching a RuleReverse String
   Problem URL : https://leetcode.com/problems/count-items-matching-a-rule/
@@ -28,4 +30,6 @@ public class Solution
         return cnt;    
     }
 }
-```cs
+
+```cs 
+

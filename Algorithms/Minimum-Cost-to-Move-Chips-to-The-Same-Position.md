@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
 /**
   Problem Name : Minimum Cost to Move Chips to The Same Position
   Problem URL : https://leetcode.com/problems/path-sum/
@@ -29,4 +31,6 @@ public class Solution
         return even < odd ? even : odd;     
     }
 }
-```cs
+
+```cs 
+

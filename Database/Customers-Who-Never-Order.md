@@ -1,4 +1,6 @@
-```sql
+
+```sql 
+
 /**
   Problem Name : Customers Who Never Order
   Problem URL : https://leetcode.com/problems/customers-who-never-order/
@@ -22,4 +24,6 @@ WHERE NOT EXISTS (
                   SELECT cust.Id
                   FROM Orders ord
                   WHERE cust.Id = ord.CustomerId); 
-```sql
+
+```sql 
+

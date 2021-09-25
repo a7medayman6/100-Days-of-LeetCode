@@ -1,4 +1,6 @@
-```sql
+
+```sql 
+
 /**
   Problem Name : Swap Salary
   Problem URL : https://leetcode.com/problems/swap-salary/
@@ -15,4 +17,6 @@ SET sex =
             CASE WHEN (sex = 'm') THEN 'f'
                  WHEN (sex = 'f') THEN 'm'
             END;
-```sql
+
+```sql 
+

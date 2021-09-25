@@ -1,4 +1,6 @@
-```cs
+
+```cs 
+
  /**
   Problem Name : How Many Numbers Are Smaller Than the Current Number
   Problem URL : https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
@@ -87,4 +89,6 @@ public class Solution
         return index;
     }
 }
-```cs
+
+```cs 
+

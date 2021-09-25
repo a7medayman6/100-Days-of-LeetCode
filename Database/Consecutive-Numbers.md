@@ -1,4 +1,6 @@
-```sql
+
+```sql 
+
 /**
   Problem Name : Consecutive Numbers
   Problem URL : https://leetcode.com/problems/consecutive-numbers/
@@ -17,4 +19,6 @@ WHERE
     AND b.id = a.id - 1
     AND a.num = b.num 
     AND b.num = c.num;
-```sql
+
+```sql 
+

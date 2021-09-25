@@ -1,5 +1,9 @@
-```cs
-```cs
+
+```cs 
+
+
+```cs 
+
 Problem URL : https://leetcode.com/problems/palindrome-number/
 
 Description :
@@ -35,5 +39,9 @@ public class Solution
     }
 }
 ```
-```cs
-```cs
+
+```cs 
+
+
+```cs 
+
