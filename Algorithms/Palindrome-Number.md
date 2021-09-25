@@ -1,14 +1,11 @@
-/**
-
   Problem URL : https://leetcode.com/problems/palindrome-number/
   Description :
     Given an integer x, return true if x is palindrome integer.
   Difficulty : Easy
   Language : C#
-  Category : Algorithms
- 
-*/
+  Category : Algorithms 
 
+```c#
 public class Solution 
 {
     public bool IsPalindrome(int x)
@@ -30,3 +27,4 @@ public class Solution
         return palindrome;
     }
 }
+```
