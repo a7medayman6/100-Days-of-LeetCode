@@ -1,6 +1,7 @@
-# 100-Days-of-LeetCode
+# [100-Days-of-LeetCode](https://a7medayman6.github.io/100-Days-of-LeetCode/)
 
 Practicing my coding skills by solving LeetCode problems everyday.
+[Website](https://a7medayman6.github.io/100-Days-of-LeetCode/)
 
 ## Algorithms
 
