@@ -246,6 +246,15 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 79. [Fibonacci Number - easy](Algorithms/fibonacci-number.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
+#### DAY 55
+
+80. [Remove Duplicates from Sorted Array - easy](Algorithms/remove-duplicates-from-sorted-array.md) => [Data Structures - Arrays](https://www.geeksforgeeks.org/array-data-structure/)
+
+#### DAY 56
+
+82. [Plus One - easy](Algorithms/plus-one.md)
+
+
 ## Database
 
 #### DAY 1
