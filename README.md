@@ -254,6 +254,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 82. [Plus One - easy](Algorithms/plus-one.md)
 
+#### DAY 57
+
+83. [Search a 2D Matrix - medium](Algorithms/search-a-2d-matrix.md)
+
 
 ## Database
 
