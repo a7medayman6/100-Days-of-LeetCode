@@ -258,6 +258,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 83. [Search a 2D Matrix - medium](Algorithms/search-a-2d-matrix.md)
 
+#### DAY 58 
+
+84. [Concatenation of Array - easy](Algorithms/concatenation-of-array.md) => [Data Structures - Arrays](https://www.geeksforgeeks.org/array-data-structure/)
 
 ## Database
 
