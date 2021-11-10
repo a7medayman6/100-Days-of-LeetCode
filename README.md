@@ -266,6 +266,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 85. [Crawler Log Folder - easy](Algorithms/crawler-log-folder.md) => [Data Structures - Stack](https://www.geeksforgeeks.org/stack-data-structure/)
 
+#### DAY 60 
+
+86. [ Backspace String Compare - easy](Algorithms/backspace-string-compare.md) => [Data Structures - Stack](https://www.geeksforgeeks.org/stack-data-structure/)
 ## Database
 
 #### DAY 1
