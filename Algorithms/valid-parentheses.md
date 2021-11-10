@@ -37,5 +37,46 @@ public class Solution
     }
 }
 
-```cs 
+```
 
+```cpp
+/**
+  Problem Name : Valid Parentheses
+  Problem URL : https://leetcode.com/problems/valid-parentheses/
+  Description :
+    Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+    An input string is valid if:
+    1. Open brackets must be closed by the same type of brackets.
+    2. Open brackets must be closed in the correct order.
+  Difficulty : Easy
+  Language : CPP
+  Category : Algorithms - Data Structures - Stack
+*/
+class Solution 
+{
+public:
+    bool isValid(string s) 
+    {
+        stack<char> brackets;
+        map<char, char> m;
+        
+        m[')'] = '(';
+        m[']'] = '[';
+        m['}'] = '{';
+        
+        for(int i = 0; i < s.size(); i++)
+        {
+            if(s[i] == '(' || s[i] == '[' || s[i] == '{')
+                brackets.push(s[i]);
+            else
+                if(!brackets.empty() && m[s[i]] == brackets.top())
+                    brackets.pop();
+                else 
+                    return false;
+        } 
+        if(!brackets.empty())
+            return false;
+        return true;
+    }
+};
+```
