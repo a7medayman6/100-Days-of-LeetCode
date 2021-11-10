@@ -262,6 +262,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 84. [Concatenation of Array - easy](Algorithms/concatenation-of-array.md) => [Data Structures - Arrays](https://www.geeksforgeeks.org/array-data-structure/)
 
+#### DAY 59
+
+85. [Crawler Log Folder - easy](Algorithms/crawler-log-folder.md) => [Data Structures - Stack](https://www.geeksforgeeks.org/stack-data-structure/)
+
 ## Database
 
 #### DAY 1
