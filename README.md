@@ -269,6 +269,19 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 60 
 
 86. [ Backspace String Compare - easy](Algorithms/backspace-string-compare.md) => [Data Structures - Stack](https://www.geeksforgeeks.org/stack-data-structure/)
+
+#### DAY 61
+
+87. [Build Array from Permutation - easy](Algorithms/build-array-from-permutation.md)
+
+#### DAY 62 
+
+88. [Odd Even Linked List - medium](Algorithms/odd-even-linked-list.md) => [Data Structures - Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
+
+#### DAY 63
+
+89. [Find Target Indices After Sorting Array - easy](Algorithms/find-target-indices-after-sorting-array.md) => [Data Structures - Arrays](https://www.geeksforgeeks.org/array-data-structure/)
+
 ## Database
 
 #### DAY 1
