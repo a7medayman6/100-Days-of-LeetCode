@@ -282,6 +282,15 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 89. [Find Target Indices After Sorting Array - easy](Algorithms/find-target-indices-after-sorting-array.md) => [Data Structures - Arrays](https://www.geeksforgeeks.org/array-data-structure/)
 
+#### DAY 64
+
+90. [Merge Two Sorted Lists - easy](Algorithms/merge-two-sorted-lists.md) => [Data Structures - Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
+
+#### DAY 65
+
+91. [Swapping Nodes in a Linked List - medium](Algorithms/swapping-nodes-in-a-linked-list.md) => [Data Structures - Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
+
+
 ## Database
 
 #### DAY 1
