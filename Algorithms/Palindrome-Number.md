@@ -1,6 +1,6 @@
 
 ```cs 
-
+/*
 Problem URL : https://leetcode.com/problems/palindrome-number/
 
 Description :
@@ -12,8 +12,7 @@ Language : C#
 
 Category : Algorithms 
 
-
-```c#
+*/
 public class Solution 
 {
     public bool IsPalindrome(int x)
