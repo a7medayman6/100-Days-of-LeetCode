@@ -38,10 +38,5 @@ public class Solution
         return palindrome;
     }
 }
-```
 
-```cs 
-
-
-```cs 
 
