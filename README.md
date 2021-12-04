@@ -290,6 +290,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 91. [Swapping Nodes in a Linked List - medium](Algorithms/swapping-nodes-in-a-linked-list.md) => [Data Structures - Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
+#### DAY 66
+
+92. [Remove Duplicates from Sorted List - easy](Algorithms/remove-duplicates-from-sorted-list.md) => [Data Structures - Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
 ## Database
 
