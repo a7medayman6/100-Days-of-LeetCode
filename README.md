@@ -18,7 +18,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 3 
 
-6. [Sqrt(x) - easy](/Algorithms/Sqrt(x).md)
+6. [Sqrt(x) - easy](Algorithms/Sqrt(x).md)
 7. [Container With Most Water - medium](Algorithms/container-with-most-water.md)
 8. [Integer to Roman - medium](Algorithms/Integer-to-Roman.md)
 9. [Climbing Stairs - easy](Algorithms/Climbing-Stairs.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
