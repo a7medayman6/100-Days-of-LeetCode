@@ -294,6 +294,14 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 92. [Remove Duplicates from Sorted List - easy](Algorithms/remove-duplicates-from-sorted-list.md) => [Data Structures - Linked List](https://www.geeksforgeeks.org/data-structures/linked-list/)
 
+#### DAY 67
+
+93. [Binary Tree Preorder Traversal - easy](Algorithms/binary-tree-preorder-traversal.md) => [Data Structures - Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+
+#### DAY 68
+
+94. [Binary Tree Postorder Traversal - easy](Algorithms/binary-tree-postorder-traversal.md) => [Data Structures - Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+
 ## Database
 
 #### DAY 1
