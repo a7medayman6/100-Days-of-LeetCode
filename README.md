@@ -302,6 +302,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 94. [Binary Tree Postorder Traversal - easy](Algorithms/binary-tree-postorder-traversal.md) => [Data Structures - Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
 
+#### DAY 69
+
+95. [Find All Duplicates in an Array - medium](Algorithms/find-all-duplicates-in-an-array.md) => [Data Structures - HashMap](https://www.geeksforgeeks.org/hashing-data-structure/)
+
+
 ## Database
 
 #### DAY 1
