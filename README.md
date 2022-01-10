@@ -314,6 +314,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 97. [Fibonacci Number - easy](Algorithms/fibonacci-number-2.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
+#### DAY 72
+
+98. [N-th Tribonacci Number - easy](Algorithms/n-th-tribonacci-number.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
 ## Database
 
