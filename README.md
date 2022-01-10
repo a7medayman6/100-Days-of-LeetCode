@@ -306,6 +306,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 95. [Find All Duplicates in an Array - medium](Algorithms/find-all-duplicates-in-an-array.md) => [Data Structures - HashMap](https://www.geeksforgeeks.org/hashing-data-structure/)
 
+### DAY 70 
+
+96. [Construct Binary Search Tree from Preorder Traversal - medium](Algorithms/construct-binary-search-tree-from-preorder-traversal.md) => [Data Structures - Binary Tree](https://www.geeksforgeeks.org/binary-tree-data-structure/)
+
 
 ## Database
 
