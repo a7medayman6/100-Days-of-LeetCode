@@ -318,6 +318,15 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 98. [N-th Tribonacci Number - easy](Algorithms/n-th-tribonacci-number.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
+#### DAY 73 
+
+99. [Climbing Stairs - easy](Algorithms/climbing-stairs-2.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+
+#### DAY 74 
+
+100. [Min Cost Climbing Stairs - easy](Algorithms/min-cost-climbing-stairs.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+
+
 ## Database
 
 #### DAY 1
