@@ -338,6 +338,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 102. [Delete and Earn - medium](Algorithms/delete-and-earn.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
+#### DAY 78
+
+103. [Jump Game - medium](Algorithms/jump-game.md)
+
+
 ## Database
 
 #### DAY 1
