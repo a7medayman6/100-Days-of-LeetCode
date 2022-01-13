@@ -340,8 +340,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 78
 
-103. [Jump Game - medium](Algorithms/jump-game.md)
+103. [Jump Game - medium](Algorithms/jump-game.md) 
 
+#### DAY 79
+
+104. [Jump Game II - medium](Algorithms/jump-game-ii) => [Two Pointers](https://www.geeksforgeeks.org/two-pointers-technique/)
 
 ## Database
 
