@@ -326,6 +326,17 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 100. [Min Cost Climbing Stairs - easy](Algorithms/min-cost-climbing-stairs.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
+#### DAY 75 
+
+101. [House Robber - medium](Algorithms/house-robber.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+
+#### DAY 76
+
+102. [House Robber II - medium](Algorithms/house-robber-ii.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+
+#### DAY 77
+
+102. [Delete and Earn - medium](Algorithms/delete-and-earn.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
 ## Database
 
