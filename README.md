@@ -346,6 +346,19 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 104. [Jump Game II - medium](Algorithms/jump-game-ii) => [Two Pointers](https://www.geeksforgeeks.org/two-pointers-technique/)
 
+#### DAY 80
+
+105. [Maximum Subarray - medium](Algorithms/maximum-subarray.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+
+#### DAY 81
+
+106. [Maximum Sum Circular Subarray - medium](Algorithms/maximum-sum-circular-subarray.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+
+#### DAY 82
+
+107. [Maximum Product Subarray - medium](Algorithms/maximum-product-subarray.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+
+
 ## Database
 
 #### DAY 1
