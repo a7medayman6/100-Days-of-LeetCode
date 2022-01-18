@@ -362,6 +362,14 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 108. [Maximum Length of Subarray With Positive Product - medium](Algorithms/maximum-length-of-subarray-with-positive-product.md)
 
+#### DAY 84
+
+109. [Best Sightseeing Pair - medium](Algorithms/best-sightseeing-pair.md)
+
+#### DAY 85
+
+110. [Best Time to Buy and Sell Stock - easy](Algorithms/best-time-to-buy-and-sell-stock-2.md)
+
 ## Database
 
 #### DAY 1
