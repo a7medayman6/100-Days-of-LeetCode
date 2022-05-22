@@ -1,4 +1,4 @@
-```python3
+```py
 """
   Problem Name : Network Delay Time
   Problem URL : https://leetcode.com/problems/network-delay-time/

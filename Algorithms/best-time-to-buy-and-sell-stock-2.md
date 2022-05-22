@@ -1,4 +1,4 @@
-```python3
+```py
 
 """
   Problem Name : Best Time to Buy and Sell Stock

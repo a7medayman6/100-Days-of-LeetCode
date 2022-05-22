@@ -1,4 +1,4 @@
-```python3
+```py
 
 """
   Problem Name : Jump Game II

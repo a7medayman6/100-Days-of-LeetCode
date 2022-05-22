@@ -1,4 +1,4 @@
-```python3
+```py
 
 """
   Problem Name : Delete and Earn
