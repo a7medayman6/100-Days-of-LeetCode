@@ -1,4 +1,3 @@
-
 ```sql 
 
 /**
@@ -19,5 +18,4 @@ IN (SELECT DepartmentId, MAX(Salary)
     FROM Employee
     GROUP BY DepartmentId);
 
-```sql 
-
+```

@@ -1,4 +1,3 @@
-
 ```sql 
 
 /**
@@ -18,5 +17,4 @@ SET sex =
                  WHEN (sex = 'f') THEN 'm'
             END;
 
-```sql 
-
+```

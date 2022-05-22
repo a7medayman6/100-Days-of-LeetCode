@@ -1,4 +1,3 @@
-
 ```sql 
 
 /**
@@ -24,5 +23,4 @@ ON P.PersonId = A.PersonId;
 -- with left join on the address table
 -- where the primary key of person table is personid in the person table, and the foreign key is personid in the address table
 
-```sql 
-
+```

@@ -1,4 +1,3 @@
-
 ```sql 
 
 /**
@@ -25,5 +24,4 @@ WHERE NOT EXISTS (
                   FROM Orders ord
                   WHERE cust.Id = ord.CustomerId); 
 
-```sql 
-
+```

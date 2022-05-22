@@ -1,4 +1,3 @@
-
 ```sql 
 
 /**
@@ -18,5 +17,4 @@ WHERE Salary <
                 ( SELECT MAX(Salary)
                   FROM Employee );
 
-```sql 
-
+```

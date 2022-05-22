@@ -1,4 +1,3 @@
-
 ```sql 
 
 /**
@@ -17,5 +16,4 @@
 SELECT score, Dense_Rank() over(ORDER BY score DESC) AS Rank 
 From scores ORDER BY Rank;
 
-```sql 
-
+```

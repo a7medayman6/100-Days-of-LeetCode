@@ -1,4 +1,3 @@
-
 ```cs 
 
 /**
@@ -43,5 +42,4 @@ public class SubrectangleQueries
  * int param_2 = obj.GetValue(row,col);
  */
 
-```cs 
-
+```

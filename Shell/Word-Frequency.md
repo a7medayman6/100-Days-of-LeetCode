@@ -1,4 +1,3 @@
-
 ```bash 
 
 #  Problem Name : Word Frequency
@@ -18,5 +17,4 @@ do
 	echo $word
 done | sort | uniq -c | sort -r | awk '{print $2 " " $1}';
 
-```bash 
-
+```

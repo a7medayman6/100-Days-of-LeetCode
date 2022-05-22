@@ -1,4 +1,3 @@
-
 ```sql 
 
  /**
@@ -17,5 +16,4 @@ FROM Weather a, Weather b
 WHERE b.RecordDate = a.RecordDate - 1
 AND a.Temperature > b.Temperature;
 
-```sql 
-
+```

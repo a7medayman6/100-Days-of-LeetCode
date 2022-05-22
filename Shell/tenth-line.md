@@ -1,4 +1,3 @@
-
 ```bash 
 
 #  Problem Name : Tenth Line
@@ -13,5 +12,4 @@
 
 cat -n file.txt | grep -w 10 | awk '{ $1 = ""; print $0 }' | xargs
 
-```bash 
-
+```

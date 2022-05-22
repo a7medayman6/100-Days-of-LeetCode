@@ -1,4 +1,3 @@
-
 ```sql 
 
 /**
@@ -19,5 +18,4 @@ FROM Employee emp,
 WHERE emp.ManagerId = manager.Id 
 AND emp.Salary > manager.Salary;
 
-```sql 
-
+```

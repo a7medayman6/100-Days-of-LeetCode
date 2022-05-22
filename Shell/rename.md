@@ -1,4 +1,3 @@
-
 ```bash 
 
 #!/bin/bash
@@ -15,5 +14,4 @@ do
   cat tmp >> "$file"
   echo "\`\`\`bash" >> "$file"
 done
-```bash 
-
+```

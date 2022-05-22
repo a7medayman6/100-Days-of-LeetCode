@@ -1,4 +1,3 @@
-
 ```sql 
 
 /**
@@ -20,5 +19,4 @@ Where 3 > ( SELECT Count(DISTINCT Emp2.Salary)
             WHERE Emp2.Salary > Emp.Salary
             AND Emp.DepartmentId = Emp2.DepartmentId);
 
-```sql 
-
+```

@@ -1,4 +1,3 @@
-
 ```sql 
 
 /**
@@ -19,5 +18,4 @@ AND     Driver_Id NOT IN (SELECT Users_Id FROM Users WHERE Banned = 'Yes')
 AND     to_date(request_at,'YYYY-MM-DD') BETWEEN to_date('2013-10-01','YYYY-MM-DD') AND to_date('2013-10-03','YYYY-MM-DD')
 GROUP BY Request_at;
 
-```sql 
-
+```

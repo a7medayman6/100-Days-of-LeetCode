@@ -1,4 +1,3 @@
-
 ```sql 
 
  /**
@@ -16,5 +15,4 @@ FROM (SELECT DISTINCT * FROM Courses)
 GROUP BY Class
 HAVING COUNT(Student) > 4;
 
-```sql 
-
+```

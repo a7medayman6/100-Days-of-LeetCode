@@ -1,4 +1,3 @@
-
 ```sql 
 
 /**
@@ -15,5 +14,4 @@ DELETE p2 FROM Person p, Person p2
 WHERE p.id < p2.id 
 AND p.email = p2.email;
 
-```sql 
-
+```

@@ -1,4 +1,3 @@
-
 ```sql 
 
  /**
@@ -18,5 +17,4 @@ WHERE mod(id, 2) <> 0
 AND description NOT LIKE 'boring'
 ORDER BY Rating DESC;
 
-```sql 
-
+```

@@ -1,4 +1,3 @@
-
 ```sql 
 
 /**
@@ -23,5 +22,4 @@ BEGIN
     RETURN result;
 END;
 
-```sql 
-
+```

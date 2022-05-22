@@ -1,4 +1,3 @@
-
 ```sql 
 
 /**
@@ -20,5 +19,4 @@ WHERE
     AND a.num = b.num 
     AND b.num = c.num;
 
-```sql 
-
+```
