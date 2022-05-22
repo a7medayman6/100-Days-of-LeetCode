@@ -370,6 +370,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 110. [Best Time to Buy and Sell Stock - easy](Algorithms/best-time-to-buy-and-sell-stock-2.md)
 
+#### DAY 86
+
+111. [Network Delay Time - Medium](Algorithms/network-delay-time.md) => [Graph Theory](https://www.geeksforgeeks.org/mathematics-graph-theory-basics-set-1/)
+
+
 ## Database
 
 #### DAY 1
