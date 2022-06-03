@@ -390,7 +390,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 115. [Range Sum Query 2D Immutable - medium](Algorithms/range-sum-query-2d-immutable.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
+### DAY 91
 
+116. [Valid Number - hard](Algorithms/valid-number.md)
 
 ## Database
 
