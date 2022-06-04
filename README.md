@@ -374,25 +374,30 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 111. [Network Delay Time - medium](Algorithms/network-delay-time.md) => [Graph Theory](https://www.geeksforgeeks.org/mathematics-graph-theory-basics-set-1/)
 
-### DAY 87
+#### DAY 87
 
 112. [Running Sum of 1d Array - easy](Algorithms/running-sum-of-1d-array.md)
 
-### DAY 88
+#### DAY 88
 
 113. [Transpose Matrix - easy](Algorithms/transpose-matrix.md)
 
-### DAY 89
+#### DAY 89
 
 114. [Longest Common Prefix - easy](Algorithms/longest-common-prefix.md)
 
-### DAY 90
+#### DAY 90
 
 115. [Range Sum Query 2D Immutable - medium](Algorithms/range-sum-query-2d-immutable.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
-### DAY 91
+#### DAY 91
 
 116. [Valid Number - hard](Algorithms/valid-number.md)
+
+#### DAY 92
+
+117. [N-Queens - hard](Algorithms/n-queens.md)
+
 
 ## Database
 
