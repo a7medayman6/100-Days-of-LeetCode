@@ -268,7 +268,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 60 
 
-86. [ Backspace String Compare - easy](Algorithms/backspace-string-compare.md) => [Data Structures - Stack](https://www.geeksforgeeks.org/stack-data-structure/)
+86. [Backspace String Compare - easy](Algorithms/backspace-string-compare.md) => [Data Structures - Stack](https://www.geeksforgeeks.org/stack-data-structure/)
 
 #### DAY 61
 
@@ -376,11 +376,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 87
 
-112. [Running Sum of 1d Array - easy](Algorithms/running-sum-of-1d-array.md)
+112. [Running Sum of 1d Array - easy - **June Leet Code Challenge**](Algorithms/running-sum-of-1d-array.md) - 
 
 #### DAY 88
 
-113. [Transpose Matrix - easy](Algorithms/transpose-matrix.md)
+113. [Transpose Matrix - easy - **June Leet Code Challenge**](Algorithms/transpose-matrix.md)
 
 #### DAY 89
 
@@ -388,7 +388,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 90
 
-115. [Range Sum Query 2D Immutable - medium](Algorithms/range-sum-query-2d-immutable.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
+115. [Range Sum Query 2D Immutable - medium - **June Leet Code Challenge**](Algorithms/range-sum-query-2d-immutable.md) => [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)
 
 #### DAY 91
 
@@ -396,11 +396,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 92
 
-117. [N-Queens - hard](Algorithms/n-queens.md)
+117. [N-Queens - hard - **June Leet Code Challenge**](Algorithms/n-queens.md)
 
 #### DAY 93
 
-118. [N-Queens II - hard](Algorithms/n-queens-ii.md)
+118. [N-Queens II - hard - **June Leet Code Challenge**](Algorithms/n-queens-ii.md)
 
 
 ## Database
