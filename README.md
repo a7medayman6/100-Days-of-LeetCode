@@ -398,6 +398,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 117. [N-Queens - hard](Algorithms/n-queens.md)
 
+#### DAY 93
+
+118. [N-Queens II - hard](Algorithms/n-queens-ii.md)
+
 
 ## Database
 
