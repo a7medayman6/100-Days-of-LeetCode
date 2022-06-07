@@ -407,6 +407,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 119. [Intersection of Two Linked Lists - easy - **June Leet Code Challenge**](Algorithms/intersection-of-two-linked-lists.md)
 
+#### DAY 95
+
+120[Merge Sorted Array - easy - **June Leet Code Challenge**](Algorithms/merge-sorted-array.md)
+
+
 ## Database
 
 #### DAY 1
