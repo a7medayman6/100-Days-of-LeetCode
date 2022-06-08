@@ -409,8 +409,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 95
 
-120[Merge Sorted Array - easy - **June Leet Code Challenge**](Algorithms/merge-sorted-array.md)
+120. [Merge Sorted Array - easy - **June Leet Code Challenge**](Algorithms/merge-sorted-array.md)
 
+#### DAY 96
+
+121. [Remove Palindromic Subsequences - easy - **June Leet Code Challenge**](Algorithms/remove-palindromic-subsequences.md)
 
 ## Database
 
