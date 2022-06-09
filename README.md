@@ -415,6 +415,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 121. [Remove Palindromic Subsequences - easy - **June Leet Code Challenge**](Algorithms/remove-palindromic-subsequences.md)
 
+#### DAY 97
+
+122. [Two Sum II - Input Array Is Sorted - medium - **June Leet Code Challenge**](Algorithms/two-sum-ii-input-array-is-sorted.md)
+
+
 ## Database
 
 #### DAY 1
