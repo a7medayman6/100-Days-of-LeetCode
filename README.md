@@ -419,6 +419,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 122. [Two Sum II - Input Array Is Sorted - medium - **June Leet Code Challenge**](Algorithms/two-sum-ii-input-array-is-sorted.md)
 
+#### DAY 98
+
+123. [Longest Substring Without Repeating Characters - medium - **June Leet Code Challenge**](Algorithms/longest-substring-without-repeating-characters.md)
 
 ## Database
 
