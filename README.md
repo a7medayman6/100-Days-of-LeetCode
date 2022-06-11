@@ -423,6 +423,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 123. [Longest Substring Without Repeating Characters - medium - **June Leet Code Challenge**](Algorithms/longest-substring-without-repeating-characters.md)
 
+#### DAY 99
+
+124. [Minimum Operations to Reduce X to Zero
+ - medium - **June Leet Code Challenge**](Algorithms/minimum-operations-to-reduce-x-to-zero.md)
+
 ## Database
 
 #### DAY 1
