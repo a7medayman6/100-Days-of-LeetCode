@@ -1,7 +1,7 @@
 ```py
 
 """
-  Problem Name : Longest Substring Without Repeating Characters
+  Problem Name : Minimum Operations to Reduce X to Zero
   Problem URL : https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
   Description :
     Return the minimum number of operations to reduce x to exactly 0 if it is possible, otherwise, return -1.
