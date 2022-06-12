@@ -425,8 +425,12 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 99
 
-124. [Minimum Operations to Reduce X to Zero
- - medium - **June Leet Code Challenge**](Algorithms/minimum-operations-to-reduce-x-to-zero.md)
+124. [Minimum Operations to Reduce X to Zero - medium - **June Leet Code Challenge**](Algorithms/minimum-operations-to-reduce-x-to-zero.md)
+
+#### DAY 100
+
+125. [Maximum Erasure Value - medium - **June Leet Code Challenge**](Algorithms/maximum-erasure-value.md)
+
 
 ## Database
 
