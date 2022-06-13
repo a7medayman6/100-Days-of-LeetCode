@@ -15,7 +15,7 @@ class Solution:
         @cache
         def DFS(r, c):
             if r >= len(triangle):
-                return s
+                return 0
             return min(triangle[r][c] + DFS(r + 1, c), triangle[r][c] + DFS(r + 1, c + 1))
             
         return DFS(0, 0)
