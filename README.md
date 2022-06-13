@@ -431,6 +431,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 125. [Maximum Erasure Value - medium - **June Leet Code Challenge**](Algorithms/maximum-erasure-value.md)
 
+#### DAY 101
+
+126. [Triangle - medium - **June Leet Code Challenge**](Algorithms/triangle.md)
 
 ## Database
 
