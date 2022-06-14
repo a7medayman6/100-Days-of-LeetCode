@@ -402,7 +402,6 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 118. [N-Queens II - hard - **June Leet Code Challenge**](Algorithms/n-queens-ii.md)
 
-
 #### DAY 94
 
 119. [Intersection of Two Linked Lists - easy - **June Leet Code Challenge**](Algorithms/intersection-of-two-linked-lists.md)
@@ -434,6 +433,11 @@ Practicing my coding skills by solving LeetCode problems everyday.
 #### DAY 101
 
 126. [Triangle - medium - **June Leet Code Challenge**](Algorithms/triangle.md)
+
+#### DAY 101
+
+126. [Delete Operation for Two Strings - medium - **June Leet Code Challenge**](Algorithms/delete-operation-for-two-strings.md)
+
 
 ## Database
 
