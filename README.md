@@ -434,9 +434,9 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 126. [Triangle - medium - **June Leet Code Challenge**](Algorithms/triangle.md)
 
-#### DAY 101
+#### DAY 102
 
-126. [Delete Operation for Two Strings - medium - **June Leet Code Challenge**](Algorithms/delete-operation-for-two-strings.md)
+127. [Delete Operation for Two Strings - medium - **June Leet Code Challenge**](Algorithms/delete-operation-for-two-strings.md)
 
 
 ## Database
