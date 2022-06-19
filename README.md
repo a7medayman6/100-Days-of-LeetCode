@@ -438,6 +438,22 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 127. [Delete Operation for Two Strings - medium - **June Leet Code Challenge**](Algorithms/delete-operation-for-two-strings.md)
 
+#### DAY 103
+
+128. [Longest String Chain - medium - **June Leet Code Challenge**](Algorithms/longest-string-chain.md)
+
+#### DAY 104
+
+129. [Binary Tree Cameras - hard - **June Leet Code Challenge**](Algorithms/binary-tree-cameras.md)
+
+#### DAY 105
+
+130. [Prefix and Suffix Search - hard - **June Leet Code Challenge**](Algorithms/prefix-and-suffix-search.md)
+
+#### DAY 106
+
+131. [Search Suggestions System - medium - **June Leet Code Challenge**](Algorithms/search-suggestions-system.md)
+
 
 ## Database
 
