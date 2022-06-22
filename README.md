@@ -454,6 +454,10 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 131. [Search Suggestions System - medium - **June Leet Code Challenge**](Algorithms/search-suggestions-system.md)
 
+#### DAY 107
+
+132. [Kth Largest Element in an Array - medium - **June Leet Code Challenge**](Algorithms/kth-largest-element-in-an-array.md)
+
 
 ## Database
 
