@@ -456,7 +456,7 @@ Practicing my coding skills by solving LeetCode problems everyday.
 
 #### DAY 107
 
-132. [Kth Largest Element in an Array - medium - **June Leet Code Challenge**](Algorithms/kth-largest-element-in-an-array.md)
+132. [Kth Largest Element in an Array - medium - **June Leet Code Challenge**](Algorithms/kth-largest-element-in-an-array-2.md)
 
 
 ## Database
